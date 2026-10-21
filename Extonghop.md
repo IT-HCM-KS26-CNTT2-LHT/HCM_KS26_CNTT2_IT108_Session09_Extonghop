@@ -17,7 +17,7 @@ Trang chủ CLB: [CLB Lập trình](https://clblaptrinh.ptit.edu.vn)
 
 ---
 
-## :rocket: Cài đặt
+## Cài đặt
 
 ```bash
 git clone https://github.com/clb-lap-trinh/smartcampus.git
@@ -32,7 +32,7 @@ npm start
 - [ ] Thông báo đẩy (push notification)
 - [ ] Đăng nhập bằng tài khoản trường
 
-## :package: Thư viện sử dụng
+## Thư viện sử dụng
 
 | Thư viện     | Phiên bản | Mục đích                              |
 | :----------- | :-------: | :------------------------------------ |
